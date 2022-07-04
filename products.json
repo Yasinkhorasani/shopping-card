@@ -1,0 +1,50 @@
+ [
+    {
+      "id": 0,
+      "name": "Laptop 1",
+      "preis": 1119,
+      "aufLager" : 12,
+      "imgSrc": "./img/loptop 6.jpg" ,
+      "iconSrc":"./icons/bag-plus.svg"
+    },
+    {
+      "id": 1,
+      "name": "Handy 2",
+      "preis": 324.99,
+      "aufLager": 8,
+      "imgSrc": "./img/loptop 7.jpg",
+      "iconSrc":"./icons/bag-plus.svg"
+    },
+    {
+      "id": 2,
+      "name": "Laptop 3",
+      "preis": 749.99,
+      "aufLager": 10,
+      "imgSrc": "./img/loptop8.jpg",
+      "iconSrc":"./icons/bag-plus.svg"
+    },
+    {
+      "id": 3,
+      "name": "Handy 4",
+      "preis": 525.99,
+      "aufLager": 6,
+      "imgSrc": "./img/loptop 9.jpg",
+      "iconSrc":"./icons/bag-plus.svg"
+    },
+    {
+      "id": 4,
+      "name": "Laptop 5",
+      "preis": 669.99,
+      "aufLager": 10,
+      "imgSrc": "./img/loptop 10.jpg",
+      "iconSrc":"./icons/bag-plus.svg"
+    },
+    {
+      "id": 5,
+      "name": "Laptop 6",
+      "preis": 844.99,
+      "aufLager": 20,
+      "imgSrc": "./img/loptop 11.jpg",
+      "iconSrc":"./icons/bag-plus.svg"
+    }
+  ]
